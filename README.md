@@ -1,4 +1,4 @@
-<a href="https://github.com/ruslanmaystrenko?tab=repositories"><img src="assets/header.svg" width="100%" alt="Ruslan Maystrenko. Data science, analytics and AI automation"></a>
+<a href="https://github.com/ruslanmaystrenko?tab=repositories"><img src="assets/header.svg" width="100%" alt="Ruslan Maystrenko. Data science, analytics, machine learning and AI automation"></a>
 
 <p>
 <a href="https://github.com/ruslanmaystrenko/EMA_Crossover_Strategy"><img src="assets/card-ema.svg" width="49.5%" alt="EMA Crossover Strategy. Machine learning on golden cross signals."></a>
